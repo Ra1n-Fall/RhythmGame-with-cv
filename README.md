@@ -81,10 +81,6 @@ G-Beats/
 
 ### 인식 제스처 종류 (Mediapipe 기반 입력 시스템)
 
-
-
-### 인식 제스처 종류 (Mediapipe 기반 입력 시스템)
-
 #### 1. 주먹 (Fist)
 ![Fist 제스처 예시](./Screenshots/gesture_fist_example.jpg)
 ![Fist 제스처 예시2](./Screenshots/gesture_fist_example2.jpg)
