@@ -144,6 +144,6 @@ G-Beats/
 
 ## 추가 정보
 
-- 플레이 영상: (YouTube 링크 예정)
+- 플레이 영상: ((https://youtu.be/0kk4giHEHhI))
 - Python 코드 설명: PythonCode 폴더 내 주석 참조
 - FMOD 이벤트 경로: event:/Songs/Track0 ~ Track9
