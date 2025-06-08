@@ -83,7 +83,6 @@ G-Beats/
 
 #### 1. 주먹 (Fist)
 ![Fist 제스처 예시](./Screenshots/gesture_fist_example.jpg)
-![Fist 제스처 예시2](./Screenshots/gesture_fist_example2.jpg)
 - **정의**: 손가락 끝(tip)이 해당 손가락의 두 번째 관절(PIP)보다 아래(Y 값이 더 큼)인 경우 해당 손가락이 접힌 것으로 간주
 - **판별 조건**:
   - 검지(8), 중지(12), 약지(16), 새끼손가락(20) 중 3개 이상 접힘 → 주먹
